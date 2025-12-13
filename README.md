@@ -12,7 +12,8 @@ Problem Statement
 
 Scalability
 
-  SkillSwap is built to support growing numbers of users without compromising performance. The platform uses Firebase or Supabase for cloud-based storage and authentication, which automatically handles increases in traffic. The frontend is developed with React.js, enabling dynamic updates and responsive interactions for a large audience. Components such as messaging, scheduling, and skill management are designed as modular services, allowing each to scale independently. This ensures that whether ten or ten thousand users are online, the system remains smooth and responsive.
+  SkillSwap is built to support growing numbers of users without compromising performance. The platform uses Firebase or Supabase for cloud-based storage and authentication, which automatically handles increases in traffic. The frontend is developed with React.js, enabling dynamic updates and responsive interactions for a large audience. Components such as messaging, scheduling, and skill management are designed as modular services,some usersare
+  allowing each to scale independently. This ensures that whether ten or ten thousand users are online, the system remains smooth and responsive.
 
 
 Fault Tolerance
